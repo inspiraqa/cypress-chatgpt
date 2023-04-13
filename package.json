@@ -1,0 +1,14 @@
+{
+  "name": "cypress-chatgpt",
+  "version": "1.0.0",
+  "description": "Cypress e Chat GPT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos (Inspira QA)",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.9.0"
+  }
+}
